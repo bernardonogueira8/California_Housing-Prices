@@ -1,2 +1,2 @@
-# California_Housing-Prices
-Repositorio destinado ao teste de ML no dataset California Housing Prices
+# California Housing Prices
+Preços médios de casas para distritos da Califórnia derivados do censo de 1990.
